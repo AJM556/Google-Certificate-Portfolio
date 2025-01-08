@@ -1,4 +1,4 @@
-<div dr='center'>Professional Statement</div>
+<div align='center'>Professional Statement</div>
 
 While seeking a bachelor’s degree in Computer Science and Economics at Beloit College, I completed an internship at International (formerly Navistar Inc), working in the IT department of the financial wing. Through both my academic and professional experience, I have gained and utilized technical skills involving the use of SQL, Python, Java, and many other languages. 
 
